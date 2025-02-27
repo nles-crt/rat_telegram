@@ -1,2 +1,10 @@
 # rat_telegram
-利用telegrambot 实现的rat远控
+利用telegram bot
+实现的远控
+start.py权限维持
+
+
+使用方法 使用pyinstaller编译
+vt
+main.exe 1/72
+start.exe 12/72
